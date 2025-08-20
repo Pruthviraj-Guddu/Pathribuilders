@@ -216,6 +216,14 @@ img {
   background-image: url("bg.jpg");
   height: 740px;
 }
+.main-swarnadri {
+  background-image: url("./images/swarnadri/File-Swarnadri10.jpeg");
+  background-repeat: no-repeat;         /* Prevents the image from repeating */
+  background-size: cover;              /* Ensures image covers the whole area */
+  background-position: center center;  /* Keeps the image centered */
+  height: 740px;
+  width: 100%;
+}
 
 .main-title {
   margin: 0;
